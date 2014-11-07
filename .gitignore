@@ -1,0 +1,16 @@
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+*.pyc
+_tifffile.so
+.vs.env
+quickactivate
+week5/images/*
+.DS_Store
+.Python
+bin/*
+lib/*
+include/*
+build/*
+man/*
+share/*
+*.swp
