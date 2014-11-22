@@ -1,0 +1,7 @@
+[submodule "FY3490"]
+    path = FY3490
+    url = https://github.com/arve0/FY3490
+
+[submodule "TFY4500"]
+    path = TFY4500
+    url = https://github.com/arve0/TFY4500
